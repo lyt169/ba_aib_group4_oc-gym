@@ -1,0 +1,37 @@
+\.gitignore
+\data
+\docs
+\filelist.txt
+\help_config.txt
+\notebook
+\src
+\data\processed
+\data\raw
+\data\processed\client_price.csv
+\data\processed\competitor_price.csv
+\data\processed\membership_clean.csv
+\data\processed\membership_clean_description.csv
+\data\processed\member_first_visit.csv
+\data\processed\member_last_visit.csv
+\data\processed\member_total_peak_visit.csv
+\data\processed\member_total_visit.csv
+\data\processed\visit_clean.csv
+\data\raw\Ratecard.xlsx
+\data\raw\subscriptionsdataFINAL.csv
+\data\raw\visitationdataPART1.csv
+\data\raw\visitationdataPART2.csv
+\notebook\eda\EDA_Ming_customer_demo.ipynb
+\notebook\eda\EDA_Faiz.ipynb
+\notebook\modelling
+\notebook\processing
+\notebook\processing\data_prepare.ipynb
+\notebook\processing\.ipynb_checkpoints\data_prepare-checkpoint.ipynb
+\docs\Case Study Instruction.docx
+\docs\fast_pandas(1).html
+\docs\image
+\docs\notes.txt
+\docs\Project-guidelines.pdf
+\docs\image\Directory Structure.png
+\docs\image\ratecard_layout.JPG
+\docs\image\subscription.JPG
+\docs\image\visitation.JPG
