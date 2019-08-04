@@ -1,0 +1,33 @@
+Team: 
+update from my side.
+
+1) all code have been cleaned up, except the gym level data 
+(should be done by tomm, @Isabella Li I need your code)
+
+2) all code have been committed to github except data dump which are too large: https://github.com/lyt169/ba_aib_group4_oc-gym
+
+3) if you have limited computing power to run the code, I uploaded the data dump onto Imperial's onedrive. Link here:
+
+https://imperiallondon-my.sharepoint.com/:u:/g/personal/yl30718_ic_ac_uk/EaX1LQAQvY9FpG0pacnbs9cBzMvt3sef9nwg8M8Lynvw3w?e=yOUtc4 
+
+4) I have included a data_clean description file for membership_clean to explain what each attribute is and their format 
+
+5) Please go ahead and answer the first 4 questions tomm using those data_dump as your base. The structure should roughly be:
+	1) state the question
+	2) state your hypothesis (multiple if needed)
+	3) slice data, chart data, summerize data
+	4) findings
+	5) suggestions/conclusion
+
+Note: they emphasised "SIMPLICITY is the key". That is why I created 4 folders under "notebook".
+
+¡¾eda¡¿ - where you keep your first round of testings and findings (Faiz and Ming, your uploaded workbooks are also here)
+¡¾modelling¡¿ - if you are running any models to support your answers ( I will use this to run the tree)
+¡¾processing¡¿- this is the pre-processing part. It is done. You can find my cleaning file "data_prepare.ipynb" in there
+¡¾report¡¿ - this is where the FINAL clean and simple report resides. 
+
+Please try your best to stick to this structure. Alex will appreciate the neatness of our work.
+
+Chat tomorrow.
+
+Cheers
